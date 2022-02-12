@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Xóa" android:id="@+id/mnu_xoa"/>
+    <item android:title="Bộ lọc" android:id="@+id/mnu_loc"/>
+    <item android:title="Tìm kiếm" android:id="@+id/mnu_search"/>
+</menu>
